@@ -70,7 +70,7 @@ function App() {
                   <strong>Nazionalità:</strong> {person.nationality}<br />
                   <strong>Riconoscimenti:</strong> {person.awards}
                 </p>
-                <p className="card-text"><em>{person.bio}</em></p>
+                <p className="card-text"><em>{person.biography}</em></p>
               </div>
             </div>
           </div>
